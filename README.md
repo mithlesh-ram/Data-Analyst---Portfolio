@@ -1,2 +1,2 @@
-# Data-Analyst---Portfolio
-This is my Portfolio for Data Analyst Project showcase.
+Here is my Portfolio of Data Analysis done by me.
+
